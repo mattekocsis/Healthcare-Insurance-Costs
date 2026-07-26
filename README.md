@@ -1,4 +1,4 @@
-# PowerBI_Healthcare-Insurance-Costs
+# Healthcare Insurance Costs
 Medical Insurance Cost Analysis and Premium Pricing Dashboard using PowerBI
 
 Purpose: Build a dashboard for underwriting / actuarial team to identify which individual factors most influence medical insurance costs, and analyze which customer segments are systematically under or overpriced relative to their risk factors.
